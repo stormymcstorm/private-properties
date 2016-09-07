@@ -1,0 +1,30 @@
+{
+  "name": "private-properties",
+  "version": "1.0.0",
+  "description": "Provides a way of storing private properties in objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stormymcstorm/private-properties.git"
+  },
+  "keywords": [
+    "private",
+    "properties",
+    "private",
+    "properties",
+    "symbols"
+  ],
+  "author": "Carson Storm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stormymcstorm/private-properties/issues"
+  },
+  "homepage": "https://github.com/stormymcstorm/private-properties#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
